@@ -19,6 +19,5 @@ int main(int argc, char **argv) {
         }
         printf("ppid = %d, pid = %d, i = %d\n", getppid(), getpid(), i);
     }
-
     return 0;
 }
